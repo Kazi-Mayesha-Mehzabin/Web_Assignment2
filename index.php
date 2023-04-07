@@ -5,7 +5,7 @@ $connection = new Connection();
 $dbConnection = $connection->getConnection();
 if($dbConnection){
 
-  echo "Connection Successfull";
+  
 
 }
 
@@ -50,9 +50,7 @@ if($dbConnection){
 					<span class="login100-form-title p-b-26">
 						Welcome
 					</span>
-					<span class="login100-form-title p-b-48">
-						<i class="zmdi zmdi-font"></i>
-					</span>
+					<div> <img style="height:50px; margin-left:115px; margin-bottom:10px;" src="images/icons/user.png"> </div>
 
 					<div class="wrap-input100 validate-input">
 						<input class="input100" type="text" name="phone">

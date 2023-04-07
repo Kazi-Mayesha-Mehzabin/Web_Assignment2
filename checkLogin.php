@@ -17,11 +17,11 @@ if($dbConnection){
   $result = $stmt->get_result();
 
   if($result->num_rows>0){
-    echo "Successful";
+   
     header("location: contact.php");
     exit();
   }
-  else echo "Unsuccessful"; 
+   
 }
 
 

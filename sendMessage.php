@@ -20,11 +20,11 @@ if($dbConnection){
 
   if($stmt->execute()){
     
-    echo "saved Successfully";
-    header("location: contact.php");
+   
+    header("location: list.php");
     exit();
   }
-  else echo "Unsuccessful"; 
+ 
 }
 
 
