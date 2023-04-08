@@ -21,7 +21,7 @@ if($dbConnection){
   if($stmt->execute()){
     
    
-    header("location: contact.php");
+    header("location: index.php");
     exit();
   }
  
