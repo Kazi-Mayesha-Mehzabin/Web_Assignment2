@@ -18,7 +18,7 @@ if($dbConnection){
 
   if($result->num_rows>0){
    
-    header("location: contact.php");
+    header("location: list.php");
     exit();
   }
    

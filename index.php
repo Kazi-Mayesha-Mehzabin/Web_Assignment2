@@ -15,7 +15,7 @@ if($dbConnection){
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login V2</title>
+	<title>Login</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -75,13 +75,7 @@ if($dbConnection){
 					</div>
 
 					<div class="text-center p-t-115">
-						<span class="txt1">
-							Don’t have an account?
-						</span>
-
-						<a class="txt2" href="#">
-							Sign Up
-						</a>
+						
 					</div>
 				</form>
 			</div>

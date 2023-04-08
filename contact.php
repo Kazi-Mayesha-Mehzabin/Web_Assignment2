@@ -19,6 +19,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-6 text-center mb-5">
+					
 
 				</div>
 			</div>
@@ -30,9 +31,9 @@
 								<div class="contact-wrap w-100 p-md-5 p-4">
 									<h3 class="mb-4">Contact Us</h3>
 									<div style="align-items:center; " class="form-group" >
-													<a href="list.php"> <p style=" background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); margin-left:550px" class="btn">
+													<a href="index.php"> <p style=" background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); margin-left:550px" class="btn">
 
-													View list
+													Log In
 												</p></a>
 													
 												</div>
